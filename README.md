@@ -21,7 +21,8 @@ One-click deploy tools + automation &amp; money-making templates for OpenClaw / 
 ```bash
 # Linux / Mac / WSL
 curl -fsSL https://openclaw.ai/install.sh | bash
-PowerShell# Windows (PowerShell)
+
+# Windows (PowerShell)
 iwr -useb https://openclaw.ai/install.ps1 | iex
 安装完成后，按照提示完成初始配置即可。
 📋 赚钱/自动化场景模板（即将上线）
